@@ -1,0 +1,1 @@
+This error occurs when using the `useEffect` hook in React Native with an asynchronous operation inside. The problem arises when the component unmounts before the asynchronous operation completes, leading to the error `Cannot update a component after it has been unmounted`.
